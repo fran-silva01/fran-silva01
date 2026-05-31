@@ -19,7 +19,7 @@ Aqui estão alguns dos principais projetos que desenvolvi para o meu portfólio:
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| [Violência Contra a Mulher]((https://github.com/fran-silva01/analise-hist-violencia-contra-mulher) | Análise histórica da violência contra a mulher no Brasil | Python, Plotly, Pandas|
+| [Violência Contra a Mulher](https://github.com/fran-silva01/analise-hist-violencia-contra-mulher) | Análise histórica da violência contra a mulher no Brasil | Python, Plotly, Pandas|
 | [Dashboard Foco & Ruído](https://github.com/fran-silva01/dashboard-foco-ruido) | Dashboard interativo analisando o impacto do ruído na produtividade e foco | Python, Streamlit, Plotly |
 | [Cancelamento Hoteleiro](https://github.com/fran-silva01/hotel-booking-cancellation-analysis) | Análise exploratória de padrões de cancelamento em reservas de hotel | Python, Pandas, Seaborn |
 | [Logística Loggi](https://github.com/fran-silva01/dataanalysis-ebac) | EDA de dados logísticos reais da empresa Loggi | Python, Jupyter, NumPy |
