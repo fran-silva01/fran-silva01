@@ -4,7 +4,7 @@ Sou estudante de Engenharia e Análise de Dados, focada em transformar dados bru
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+###  Tecnologias e Ferramentas
 
 - **Linguagens:** Python, SQL
 - **Análise & Ciência de Dados:** Pandas, Numpy, Scikit-learn, SQLite
