@@ -13,20 +13,20 @@ Sou estudante de Engenharia e Análise de Dados, focada em transformar dados bru
 
 ---
 
-### 🚀 Projetos em Destaque
+###  Projetos em Destaque
 
 Aqui estão alguns dos principais projetos que desenvolvi para o meu portfólio:
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| [🎛️ Dashboard Foco & Ruído](https://github.com/fran-silva01/dashboard-foco-ruido) | Dashboard interativo analisando o impacto do ruído na produtividade e foco | Python, Streamlit, Plotly |
-| [🏨 Cancelamento Hoteleiro](https://github.com/fran-silva01/hotel-booking-cancellation-analysis) | Análise exploratória de padrões de cancelamento em reservas de hotel | Python, Pandas, Seaborn |
-| [📦 Logística Loggi](https://github.com/fran-silva01/dataanalysis-ebac) | EDA de dados logísticos reais da empresa Loggi | Python, Jupyter, NumPy |
-| [⛽ Preço da Gasolina](https://github.com/fran-silva01/preco-gasolina) | Análise histórica de preços de combustíveis no Brasil | Python, Matplotlib 
+| [Violência Contra a Mulher]((https://github.com/fran-silva01/analise-hist-violencia-contra-mulher) | Análise histórica da violência contra a mulher no Brasil | Python, Plotly, Pandas|
+| [Dashboard Foco & Ruído](https://github.com/fran-silva01/dashboard-foco-ruido) | Dashboard interativo analisando o impacto do ruído na produtividade e foco | Python, Streamlit, Plotly |
+| [Cancelamento Hoteleiro](https://github.com/fran-silva01/hotel-booking-cancellation-analysis) | Análise exploratória de padrões de cancelamento em reservas de hotel | Python, Pandas, Seaborn |
+| [Logística Loggi](https://github.com/fran-silva01/dataanalysis-ebac) | EDA de dados logísticos reais da empresa Loggi | Python, Jupyter, NumPy |
 
 ---
 
-### 📈 Estatísticas do GitHub
+###  Estatísticas do GitHub
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=fran-silva01&show_icons=true&theme=radical&include_all_commits=true" height="150" alt="Estatísticas do GitHub" />
@@ -35,7 +35,7 @@ Aqui estão alguns dos principais projetos que desenvolvi para o meu portfólio:
 
 ---
 
-### 🤝 Vamos nos conectar?
+###  Vamos nos conectar?
 
 - **LinkedIn:** www.linkedin.com/in/francielly-silva-8a7761148
 
